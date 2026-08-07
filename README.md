@@ -1,76 +1,89 @@
 <h1 align="center">Hi 👋, I'm Lakshay Pal</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | DSA Enthusiast | AI/ML Learner</h3>
+
+<h3 align="center">
+Computer Science Student • Full Stack Developer • DSA Enthusiast • AI/ML Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+System+Design;Building+Projects+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Competitive+Programmer;Building+Projects+that+Solve+Real+Problems;Future+Tech+Entrepreneur" />
+</p>
+
+<p align="center">
+<a href="https://github.com/lakshaygithub1098">
+<img src="https://komarev.com/ghpvc/?username=lakshaygithub1098&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/lakshaygithub1098?tab=followers">
+<img src="https://img.shields.io/github/followers/lakshaygithub1098?label=Followers&style=social"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Computer Science student at **NSUT, New Delhi**
+🎓 Computer Science student at **NSUT, New Delhi**
 
-💻 Passionate about building scalable web applications and solving real-world problems.
+💼 Former **Software Engineering Intern @ DRDO**
 
-🌱 Currently learning
-- MERN Stack
-- System Design (LLD & HLD)
-- Backend Development
-- Docker
+💻 Passionate about
+- Full Stack Development
+- Backend Engineering
 - AI/ML
+- Scalable Systems
 
-🎯 Current Focus
-- Preparing for Software Engineering placements
-- Solving Data Structures & Algorithms
-- Building impactful Full Stack projects
-- Contributing to Open Source
+🌱 Currently Learning
 
-🚀 Long-term Goal
-> Gain industry experience as a Software Engineer and eventually build a successful technology startup.
+- MERN Stack
+- Docker
+- System Design (LLD + HLD)
+- Backend Architecture
+
+🎯 Preparing for
+
+- Software Engineering Placements
+- Open Source Contributions
+- Building Startup-ready Products
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Featured Projects
 
-### 📰 OnePointNews
-AI-powered personalized news platform.
+## 📰 OnePointNews
 
-**Tech Stack**
-- React
-- Node.js
-- Express.js
-- MongoDB
+An AI-powered personalized news platform built using the MERN stack.
+
+✨ Features
+
+- Personalized News Feed
 - JWT Authentication
-
-**Features**
-- Personalized news feed
-- Secure authentication
-- Category-based filtering
-- Responsive UI
+- Modern Responsive UI
 - REST APIs
+- MongoDB Database
+- Category Filtering
 
 ---
 
-### 📁 Hierarchical File System (DRDO Internship)
+## 📂 DRDO Hierarchical File System
 
-Worked on customizing and developing an internal file management portal.
+Worked on an internal file management portal during my internship.
 
-Highlights:
-- Customized HFS v3 interface
-- Improved UI/UX
-- Department-wise file organization
-- Authentication & access control
-- Responsive portal design
+Highlights
+
+- UI Customization
+- Authentication
+- Department-wise File Management
+- Responsive Interface
+- Secure Access
 
 ---
 
-### 📊 Other Projects
+## 🤖 AI / ML Projects
 
-- Machine Learning Models
 - AQI Prediction
 - TinyML Healthcare Prototype
-- Personal Productivity Applications
+- Machine Learning Models
 
 ---
 
@@ -78,81 +91,77 @@ Highlights:
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
-## 📈 Coding Profiles
-
-- 💻 LeetCode
-- 🟢 GeeksforGeeks
-- ⚔️ Codeforces
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshaygithub1098&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=lakshaygithub1098&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygithub1098&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN](https://www.linkedin.com/in/lakshay-pal-98001b282/))
+<p align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/lakshaygithub1098))
+<a href="https://www.linkedin.com/in/lakshay-pal-98001b282/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/lakshaygithub1098">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 💡 Quote
+
+> *"Great software isn't just written—it's engineered."*
+
+---
+
+# ⚡ Fun Fact
 
 ```cpp
-while(alive){
+while(success){
     Learn();
     Build();
+    Fail();
     Improve();
-    Repeat();
 }
 ```
-
-> *"Code is not just about solving problems—it's about creating solutions that people love to use."*
-
-⭐ Thanks for visiting my profile!
