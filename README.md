@@ -63,19 +63,6 @@ An AI-powered personalized news platform built using the MERN stack.
 - MongoDB Database
 - Category Filtering
 
----
-
-## 📂 DRDO Hierarchical File System
-
-Worked on an internal file management portal during my internship.
-
-Highlights
-
-- UI Customization
-- Authentication
-- Department-wise File Management
-- Responsive Interface
-- Secure Access
 
 ---
 
